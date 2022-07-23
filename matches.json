@@ -1,1 +1,20 @@
+[
+  { 
+    "descricao":"Eiminatórias Copa 2022 ",
+     "local": {
+      "nome": "aracanã ",
+      "imagem": "TODO"     
+     },
+    "mandante":{
+      "nome": "Brasil",
+      "forca": 5,
+      "imagem": "T  ODO"
+     }, 
+    "mandante":{
+      "nome": "Argentina",
+      "forca": 5,
+      "imagem": "TODO"
+     }
+  }
 
+]
